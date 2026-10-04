@@ -70,6 +70,7 @@ const translations = {
     "form.submit": "Pošalji na WhatsApp",
     "form.error": "Unesite ime i telefon.",
     "float.aria": "WhatsApp",
+    "built.by": "Napravio Alpha IT Solutions",
   },
   en: {
     skip: "Skip to content",
@@ -142,6 +143,7 @@ const translations = {
     "form.submit": "Send on WhatsApp",
     "form.error": "Enter a name and phone number.",
     "float.aria": "WhatsApp",
+    "built.by": "Built by Alpha IT Solutions",
   },
 };
 
